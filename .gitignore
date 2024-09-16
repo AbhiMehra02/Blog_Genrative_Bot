@@ -1,0 +1,9 @@
+# Exclude the virtual environment directory
+env/
+
+# Exclude model files
+models/
+
+# Optionally exclude Python bytecode files
+*.pyc
+__pycache__/
